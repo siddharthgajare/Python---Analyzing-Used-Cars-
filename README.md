@@ -1,7 +1,7 @@
 # Used Cars Market Analysis - CarDekho
 
 ## Overview
-This project analyzes the Indian used car market to provide insights for CarDekho, a leading used car website. By examining data from Cardekho.com, we explore factors influencing sales, top-selling brands, popular models, and market trends.
+This project analyzes the Indian used car market to provide insights for CarDekho, a leading used car website. By examining data from Cardekho.com, I explored factors influencing sales, top-selling brands, popular models, and market trends.
 
 ## Key Findings
 - **Top Brands Sold:** Maruti leads with 35% market share, followed by Hyundai.
